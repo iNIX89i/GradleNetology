@@ -1,0 +1,5 @@
+rootProject.name = 'GredleNetology2'
+include 'db'
+include 'api'
+include 'service'
+
